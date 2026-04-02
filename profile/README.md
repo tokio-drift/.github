@@ -10,14 +10,16 @@ This organization is a collection of all the major group projects we have worked
 
 **High-performance T20 cricket simulator in C, using POSIX threads**  
 
-Maps cricket entities to OS concepts - the players are threads, the pitch a critical section.
-A custom priority scheduler to schedule bowlers along with the traditional Round Robin and SJF options.
+Maps cricket entities to OS concepts - the players are threads, the pitch a critical section.  
+A custom priority scheduler to schedule bowlers along with the traditional Round Robin and SJF options.  
 
-Lang: C
+Lang: C  
+
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/tokio-drift/MOSS)
 
 Collaborators: [peopleig](https://github.com/peopleig), [KNIGHT-29](https://github.com/KNIGHT-29), [ParshvMeshiya](https://github.com/ParshvMeshiya), [HetB180906](https://github.com/HetB180906)
 
-## Image-Editor
+## Hyperion
 
 **Feature Packed Image Editor that runs on the browser**
 
