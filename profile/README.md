@@ -6,11 +6,14 @@ This organization is a collection of all the major group projects we have worked
 
 ## Projects
 
-## OS-T20
+## MOSS
 
-**Cricket World Cup Sim using Pthreads**
+**High-performance T20 cricket simulator in C, using POSIX threads**  
 
-Written in C
+Maps cricket entities to OS concepts - the players are threads, the pitch a critical section.
+A custom priority scheduler to schedule bowlers along with the traditional Round Robin and SJF options.
+
+Lang: C
 
 Collaborators: [peopleig](https://github.com/peopleig), [KNIGHT-29](https://github.com/KNIGHT-29), [ParshvMeshiya](https://github.com/ParshvMeshiya), [HetB180906](https://github.com/HetB180906)
 
