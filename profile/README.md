@@ -15,7 +15,7 @@ A custom priority scheduler to schedule bowlers along with the traditional Round
 
 Lang: C  
 
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/tokio-drift/MOSS)
+[![View Repo](https://img.shields.io/badge/View%20Repository-orange?logo=github)](https://github.com/tokio-drift/MOSS)
 
 Collaborators: [peopleig](https://github.com/peopleig), [KNIGHT-29](https://github.com/KNIGHT-29), [ParshvMeshiya](https://github.com/ParshvMeshiya), [HetB180906](https://github.com/HetB180906)
 
