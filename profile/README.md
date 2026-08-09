@@ -21,9 +21,14 @@ Collaborators: [peopleig](https://github.com/peopleig), [KNIGHT-29](https://gith
 
 ## Hyperion
 
-**Feature Packed Image Editor that runs on the browser**
+**Feature Packed Image Editor that runs on the browser**  
 
-Written in JS  
+Browser-based photo editor built with React.  
+Supports global tonal and color adjustments, selective local masking, crop/rotate tools, multi-image workflow, and export in common web formats.
+
+Lang: JavaScript  
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-red?logo=github)](https://github.com/tokio-drift/Hyperion)
 
 Collaborators: [peopleig](https://github.com/peopleig), [ParshvMeshiya](https://github.com/ParshvMeshiya), [HetB180906](https://github.com/HetB180906), [Varun-bhim](https://github.com/Varun-bhim), [YagnikMaru](https://github.com/YagnikMaru), [Jheelgandhi9](https://github.com/Jheelgandhi9)
 
@@ -31,6 +36,6 @@ Collaborators: [peopleig](https://github.com/peopleig), [ParshvMeshiya](https://
 
 **Compiler for a C-like language, built on MIPS with 3AC**  
 
-Written in C++  
+Lang: C++ 
 
 Collaborators: [peopleig](https://github.com/peopleig), [ParshvMeshiya](https://github.com/ParshvMeshiya), [HetB180906](https://github.com/HetB180906), [KNIGHT-29](https://github.com/KNIGHT-29)
